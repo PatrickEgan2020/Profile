@@ -21,7 +21,7 @@
 
 Here are a few areas I'm passionate about or currently contributing to:
 
-- 📘 [Engineering Dojo Starter Kit](#) — A guide to running immersive team learning experiences  
+- 📘 [Engineering Dojo Playbook](#) — A guide to running immersive team learning experiences  
 - 🛠️ [CI/CD Flow Optimizer](#) — Tooling to visualize and reduce cycle time  
 - 📡 [Platform as a Product Framework](#) — Elevating internal platforms with product thinking  
 
@@ -29,9 +29,9 @@ Here are a few areas I'm passionate about or currently contributing to:
 
 ## 🗣️ Let’s Connect
 
-- 📫 [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📝 [Blog / Portfolio](https://yourwebsite.dev) *(if applicable)*
+- 📫 [Email](egan_p@comcast.net)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/patrick-egan-95baa13/))
+
 
 ---
 
