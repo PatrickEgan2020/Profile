@@ -1,3 +1,20 @@
+# 👋 Hi, I'm Patrick Egan
+
+I’m a technical leader passionate about enabling high-performing teams and evolving engineering organizations. With deep experience in platform engineering, CI/CD, and cloud (AWS), I’ve built engineering effectiveness groups and led transformations that dramatically reduce lead time and increase team joy.
+
+- ⚙️ Technical Principal & Delivery Lead
+- 🧠 Creator of immersive dojo experiences for engineering enablement
+- 🚀 Led teams from 5 to 100+ engineers across product and platform domains
+- 🏗️ Architected systems that scale — from cash-based Java solutions at Target to org-wide DevOps transformations
+- 🧾 Patent-holder driving $2–3B+ annual revenue
+- 🔍 Focused on clear delivery, coaching, and long-term impact
+
+I’m currently exploring Sr. Engineering Manager and Director roles where I can deepen impact, build trust, and help shape the next era of engineering culture.
+
+Let’s build something impactful together.
+
+🌐 [LinkedIn](https://www.linkedin.com/in/patrick-egan-95baa13/)) | 📫 [Email me](mailto:egan_p@comcast.net)
+
 ## 🔧 What I Do
 
 - 🏗️ **Build & Scale Teams** — Managed teams from 5 to 100+ engineers
